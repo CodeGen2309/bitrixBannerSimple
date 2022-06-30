@@ -1,5 +1,7 @@
 <h2>cdrBitrixBanner</h2>
 <p>Simple bitrix componemt for fast create banners</p>
+<br><br>
+<p>Простой компонент баннера для Битрикс управление сайтом. Все элементы интерфейса настраиваются из окна настроек, баннер растягивается по ширине и высоте родителя</p>
 
 <div class="cdrBanners">
   <img src="https://s328vla.storage.yandex.net/rdisk/8adb93008d7ba62d9e69eea471db296c0b965f68eecef989cf5e747639bcd560/62bdbd41/cypyCA9fR1g0ZR-ibKa834t9i0MNmbS9LFpnWUPiomzIztZ1eyu8bIpPfTwdXBOKvymBcLDatXzjOlUWOwy_Rw==?uid=417447780&filename=sample1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=417447780&fsize=131978&hid=f3a90ac2f70b83d40d89bb9c22df69b8&media_type=image&tknv=v2&etag=f606fd890a3092f0e3a87796ca41894b&rtoken=4SNu7s96Lenp&force_default=yes&ycrid=na-450edb5df26aea1bf5f7a71d1dff5092-downloader3f&ts=5e2abb1091240&s=823615f8a3447ac70cfe31b86b417b7c7cadc45ce5f8a353b7b1a2ab7b6c4e18&pb=U2FsdGVkX18FORL4Ne0-6UhwRCHXm5kW3QEf_bXZXw2frtJbZ1aO96IAF9BLDhSZI5paH-zaBF_ifeNsVfRpSkl8ZhKQSyCr-M_FX06cOgM" alt="">
