@@ -9,9 +9,11 @@
   <img src="https://s601sas.storage.yandex.net/rdisk/d9c27e4ed2310e3b18cb4bc2d3df892e44e25339fb82edee25d107e4155d185d/62bdbd5c/cypyCA9fR1g0ZR-ibKa83zGzunoAR5sXG8lo01zv1YJqsYXErbiNMX_fVtDUdLYpVHDOM1vbDtWWDVKKx2G6RA==?uid=417447780&filename=sample5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=417447780&fsize=425745&hid=645d77801089e8e54c483945bb2d2f56&media_type=image&tknv=v2&etag=182ac7af48488fe4fb0b550f79fa15ed&rtoken=aaFZASGPyXvA&force_default=yes&ycrid=na-3bc9123d6e93e0167cb0ded114b393e3-downloader24f&ts=5e2abb2a50f00&s=9678d432e7e829c033c6d4c75c0c9e81b52022533a70316ddae49be9181c9847&pb=U2FsdGVkX19Q4Djevoqjf7GhlBtqgF2nlfwzyDl__6ThigMrp4NGZ0xnul2yQUpl6v1D_JVqbQd3W7c6CTm9JHnR44wxrJe5ZpACNpyBvd0" alt="">
 </div>
 
-<style>
-  .cdrBanners {
-    display: flex;
-    flex-direction: column;
-  }
-</style>
+<div style="display: none;">
+  <style>
+    .cdrBanners {
+      display: flex;
+      flex-direction: column;
+    }
+  </style>
+</div>
