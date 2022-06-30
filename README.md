@@ -8,12 +8,3 @@
   <img src="https://s139sas.storage.yandex.net/rdisk/84f93231358856e8add4adcbfd4f3f9ab53f664e53c5f5414fe08cb434b8588a/62bdbd57/cypyCA9fR1g0ZR-ibKa837rLARkY2hCLAbHkWKYkm9n8mf9Unrf3kZ0YTGcxyCpHyWWerbMTeGPVeGlRJr3kjw==?uid=417447780&filename=sample4.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=417447780&fsize=176336&hid=8d76e03d6b42dac3d6aabf9c2fb73ffa&media_type=image&tknv=v2&etag=78100b27ada1cf6b862e4f4845c70e24&rtoken=YLUw4LDeZAQG&force_default=yes&ycrid=na-688ea1630e10c6f0ff6021f1315d8f80-downloader4h&ts=5e2abb258c3c0&s=0b48de5b29654be9e42edc686b639c75ff2f7b902c8c8e196296e898fdab24b5&pb=U2FsdGVkX1_YhVbFnaQ5A3_jwune-5BdNdTMjK452_cm_yrucJPXhZGx-_3TrtCPjQbUxnQDgZyq-g6-aSpDdRfMI6TReNcMtrCE2E_FAV0" alt="">
   <img src="https://s601sas.storage.yandex.net/rdisk/d9c27e4ed2310e3b18cb4bc2d3df892e44e25339fb82edee25d107e4155d185d/62bdbd5c/cypyCA9fR1g0ZR-ibKa83zGzunoAR5sXG8lo01zv1YJqsYXErbiNMX_fVtDUdLYpVHDOM1vbDtWWDVKKx2G6RA==?uid=417447780&filename=sample5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=417447780&fsize=425745&hid=645d77801089e8e54c483945bb2d2f56&media_type=image&tknv=v2&etag=182ac7af48488fe4fb0b550f79fa15ed&rtoken=aaFZASGPyXvA&force_default=yes&ycrid=na-3bc9123d6e93e0167cb0ded114b393e3-downloader24f&ts=5e2abb2a50f00&s=9678d432e7e829c033c6d4c75c0c9e81b52022533a70316ddae49be9181c9847&pb=U2FsdGVkX19Q4Djevoqjf7GhlBtqgF2nlfwzyDl__6ThigMrp4NGZ0xnul2yQUpl6v1D_JVqbQd3W7c6CTm9JHnR44wxrJe5ZpACNpyBvd0" alt="">
 </div>
-
-<div style="display: none;">
-  <style>
-    .cdrBanners {
-      display: flex;
-      flex-direction: column;
-    }
-  </style>
-</div>
