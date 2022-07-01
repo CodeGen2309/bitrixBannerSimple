@@ -1,27 +1,20 @@
 <? if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) {die();} ?>
 
-<section class="banner__holder">
-  <div class="banner">
-    <img class="banner__bullet" src="<?= $arResult['IMAGE'] ?>">
-    <div class="banner__cover"></div>
+<div class="banner">
+  <img class="banner__bullet" src="<?= $arResult['IMAGE'] ?>">
+  <div class="banner__cover"></div>
 
-    <div class="banner__content banBullet">
-      <h2 class="banBullet__header"><?= $arResult['HEADER'] ?></h2>
-      <p class="banBullet__headNote"><?= $arResult['HEADNOTE'] ?></p>
+  <div class="banner__content banBullet">
+    <h2 class="banBullet__header"><?= $arResult['HEADER'] ?></h2>
+    <p class="banBullet__headNote"><?= $arResult['HEADNOTE'] ?></p>
 
-      <p class="banBullet__desc"><?= $arResult['DESCRIPTION'] ?></p>
+    <p class="banBullet__desc"><?= $arResult['DESCRIPTION'] ?></p>
 
-      <a 
-        href="<?= $arResult['BUTTON_LINK'] ?>"
-        class="banBullet__send"
-      >
-        <?= $arResult['BUTTON_TEXT'] ?>
-      </a>
-    </div>
-
+    <a href="<?= $arResult['BUTTON_LINK'] ?>" class="banBullet__send">
+      <?= $arResult['BUTTON_TEXT'] ?>
+    </a>
   </div>
-</section>
-
+</div>
 
 
 <style>
